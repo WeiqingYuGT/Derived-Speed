@@ -1,0 +1,341 @@
+-- [20181024 04:4753PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181024 04:4753PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181024 04:4753PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181024 08:5642PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181024 08:5642PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181024 08:5642PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181025 01:4518PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181025 01:4518PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181025 01:4518PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/12/23/fill/pos, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/00/fill/pos, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/01/fill/pos, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/12/23/fill/rest, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/00/fill/rest, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/01/fill/rest, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/12/23/fill/tll, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/00/fill/tll, skipped this dir...
+-- [20181025 03:0613PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/01/fill/tll, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/pos, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/pos, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/rest, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/rest, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/tll, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181025 04:1817PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/tll, skipped this dir...
+-- [20181025 09:0705PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/13/fill/pos, skipped this dir...
+-- [20181025 09:0705PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/14/fill/pos, skipped this dir...
+-- [20181025 09:0705PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/15/fill/pos, skipped this dir...
+-- [20181025 09:0705PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/13/fill/rest, skipped this dir...
+-- [20181025 09:0706PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/14/fill/rest, skipped this dir...
+-- [20181025 09:0706PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/15/fill/rest, skipped this dir...
+-- [20181025 09:0706PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/13/fill/tll, skipped this dir...
+-- [20181025 09:0706PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/14/fill/tll, skipped this dir...
+-- [20181025 09:0706PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/15/fill/tll, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/12/fill/pos, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/13/fill/pos, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/14/fill/pos, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/12/fill/rest, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/13/fill/rest, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/14/fill/rest, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/12/fill/tll, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/13/fill/tll, skipped this dir...
+-- [20181025 11:2638PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/13/14/fill/tll, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/00/fill/pos, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/01/fill/pos, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/02/fill/pos, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/00/fill/rest, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/01/fill/rest, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/02/fill/rest, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/00/fill/tll, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/01/fill/tll, skipped this dir...
+-- [20181026 12:3420AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/02/fill/tll, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/pos, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/pos, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/rest, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/rest, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/tll, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181026 12:5426AM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/tll, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/pos, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/pos, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/rest, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/rest, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/tll, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181026 02:5200PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/tll, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/pos, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/pos, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/rest, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/rest, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/tll, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181026 03:4713PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/tll, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/pos, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/pos, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/rest, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/rest, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/11/fill/tll, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181026 04:1600PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/13/fill/tll, skipped this dir...
+-- [20181026 04:1724PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/pos, skipped this dir...
+-- [20181026 04:1724PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/rest, skipped this dir...
+-- [20181026 04:1724PM - WARNING]	 Error processing directory /data/science_core_ex/us/display_dr/2018/10/10/12/fill/tll, skipped this dir...
+-- [20181102 06:4956PM - INFO]	 Writing data without derived speed and angle for 2018-08-17, 11, us
+-- [20181102 06:5034PM - INFO]	 Done writing
+-- [20181102 06:5035PM - INFO]	 Writing data with derived speed and angle for 2018-08-17, 11, us
+-- [20181102 06:5256PM - INFO]	 Done writing
+-- [20181102 07:1801PM - INFO]	 Writing data without derived speed and angle for 2018-08-17, 11, us
+-- [20181102 07:1844PM - INFO]	 Done writing
+-- [20181102 07:1845PM - INFO]	 Writing data with derived speed and angle for 2018-08-17, 11, us
+-- [20181102 07:2215PM - INFO]	 Done writing
+-- [20181102 07:2215PM - INFO]	 Finished hourly derived speed calculation for 2018-08-17, 11:00
+-- [20181102 07:2750PM - ERROR]	 Error while sending or receiving.
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 828, in send_command
+    answer = smart_decode(self.stream.readline()[:-1])
+  File "/opt/anaconda/lib/python2.7/socket.py", line 451, in readline
+    data = self._sock.recv(self._rbufsize)
+error: [Errno 104] Connection reset by peer
+-- [20181102 07:2750PM - INFO]	 Exception while sending command.
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 695, in send_command
+    response = connection.send_command(command)
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 840, in send_command
+    raise Py4JNetworkError("Error while sending or receiving", e)
+Py4JNetworkError: Error while sending or receiving
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2750PM - ERROR]	 An error occurred while trying to connect to the Java server (127.0.0.1:44557)
+Traceback (most recent call last):
+  File "/media/ephemeral0/usr/hdp/2.5.0.0-1245/spark2/python/lib/py4j-0.10.1-src.zip/py4j/java_gateway.py", line 777, in start
+    self.socket.connect((self.address, self.port))
+  File "/opt/anaconda/lib/python2.7/socket.py", line 228, in meth
+    return getattr(self._sock,name)(*args)
+error: [Errno 111] Connection refused
+-- [20181102 07:2836PM - INFO]	 Writing data without derived speed and angle for 2018-08-17, 11, us
+-- [20181102 07:2903PM - INFO]	 Done writing
+-- [20181102 07:2904PM - INFO]	 Writing data with derived speed and angle for 2018-08-17, 11, us
+-- [20181102 07:3228PM - INFO]	 Done writing
+-- [20181102 07:3228PM - INFO]	 Finished hourly derived speed calculation for us 2018-08-17, 11:00
+-- [20181105 02:5429PM - INFO]	 Writing data without derived speed and angle for 2018-08-17, 11, us
+-- [20181105 02:5458PM - INFO]	 Done writing
+-- [20181105 02:5459PM - INFO]	 Writing data with derived speed and angle for 2018-08-17, 11, us
