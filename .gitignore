@@ -11,4 +11,4 @@ config/dspd.properties
 spark/logs/
 
 # Compile file
-#*.pyc
+*.pyc
