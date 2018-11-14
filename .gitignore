@@ -3,3 +3,12 @@
 
 # DB Connection
 config/dspd.properties
+
+# All properties
+*.properties
+
+# Logs
+spark/logs/
+
+# Compile file
+*.pyc

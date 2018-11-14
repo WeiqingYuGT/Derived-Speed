@@ -1,0 +1,4 @@
+#-------------------------------------------------------------------
+# derived speed hourly process
+#------------------------------------------------------------------
+0 * * * * cd /home/xad/derived_speed/spark/; python run_dpsd_spk.py > logs/hourly_process.log

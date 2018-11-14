@@ -28,3 +28,9 @@ executor_cores = '3'
 max_result_size = '4g'
 dynamicAllocation = 'false'
 scheduler_capacity = '40000'
+
+#---------------------------------------
+#---   Status Log Keys
+#---------------------------------------
+ard_key = "ard/"
+dspd_key = "derived_speed/"
